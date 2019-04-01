@@ -112,7 +112,7 @@ DATABASES = {
 #         'PORT': '3306',
 #         'NAME': 'blog',
 #         'USER': 'leonis',
-#         'PASSWORD': 'Leonis0724',
+#         'PASSWORD': '**********',
 #         'OPTIONS': {
 #             'sql_mode': 'traditional',
 #             'charset': 'utf8mb4',
